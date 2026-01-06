@@ -1,46 +1,57 @@
-# OctoAcme Project Management Overview
+# OctoAcme Project Management Docs
 
-## Purpose
-Provide a concise, shareable introduction to how OctoAcme runs projects so new teammates can quickly understand our approach, roles, and key artifacts.
+This README is the central entry point to OctoAcme’s project management process documentation. It orients new contributors, explains key workflows and roles, and links to the full set of living program documents in this folder.
 
-## Scope
-Applies to all cross-functional projects that deliver product features, services, or integrations.
+---
 
-## Principles
-- Customer-first: prioritize customer value and usability.
-- Iterative delivery: deliver small, testable increments.
-- Clear ownership: each project has a named Project Manager (PM) and Product Lead.
-- Data-informed decisions: measure impact and iterate based on evidence.
-- Psychological safety: encourage feedback and learning.
+## Overview: How OctoAcme Runs Projects
 
-## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+OctoAcme adopts an iterative, outcome-focused approach to delivering projects. Each project follows a lifecycle that starts with a clear initiation (Project One‑pager and stakeholder alignment), proceeds through detailed planning (backlog, estimates, Definition of Done, release map), goes into structured execution with tracked delivery and QA, advances through a checklist-driven release and deployment stage, and concludes with a close and retrospective. Key artifacts are maintained in the repo as the single source of truth.
 
-## Key Artifacts
-- Project Charter / One-pager
-- Roadmap and Release Plan
-- Sprint/Iteration Backlog
-- Acceptance Criteria & Definition of Done
-- Risk Register
-- Retrospective notes and action items
+**Core roles and responsibilities:**  
+- **Product Managers (PdMs):** Define outcomes, prioritize, and measure success.
+- **Project Managers (PMs):** Coordinate delivery, risk, and communication.
+- **Developers:** Implement and test solutions and collaborate on design.
+- **QA:** Validate acceptance criteria and orchestrate test coverage.
+- **Stakeholders:** Input requirements and approve milestones.
 
-## Lifecycle (high-level)
-1. Initiation: problem statement, stakeholders, high-level timeline.
-2. Planning: scope, resources, milestones, dependencies.
-3. Execution: build, test, review, iterate.
-4. Release: deploy, verify, announce.
-5. Close & Retrospective: capture learnings and next steps.
+**Workflows and quality assurance:**  
+- Use a project board (Backlog → Ready → In Progress → In Review → QA → Done).
+- Small pull requests; issue links and clear acceptance criteria required.
+- Tests and security scans run in CI before review; PRs require approval(s).
+- Release is checklist-driven with pre-release verifications and rollback plans.
+- Blocker/risk escalation steps from daily team triage up to sponsor level.
+- Quality is embedded by continuous testing, manual QA, and blameless retrospectives.
 
-## Communication Cadence
-- Weekly sync between PM + PdM
-- Twice-weekly standups for delivery team (or as agreed)
-- Monthly stakeholder updates
-- Ad-hoc escalations as needed
+**Communication:**  
+- Daily standups (progress + blockers), weekly PM/PdM syncs, sprint demos, and monthly stakeholder updates.
+- Use templates for weekly updates and post-incident communications to maintain transparency.
+- The project repo’s README and release docs act as status references for stakeholders.
 
-## How to use these docs
-- Keep the Project Charter updated in the project repo.
-- Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+**Continuous improvement:**  
+- Retrospectives after each major deliverable.
+- Action items tracked on project board and fed back into process documentation.
+
+---
+
+## Documentation Index
+
+- [Project Management Overview](./octoacme-project-management-overview.md)
+- [Project Initiation Guide](./octoacme-project-initiation.md)
+- [Project Planning](./octoacme-project-planning.md)
+- [Execution & Tracking](./octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](./octoacme-risks-and-communication.md)
+- [Release & Deployment Guide](./octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
+- [Roles & Personas](./octoacme-roles-and-personas.md)
+
+---
+
+## How to Use
+
+- Treat the docs in this folder as your reference for running projects at OctoAcme.
+- Use templates and checklists as the basis for planning, releases, and retrospectives.
+- To propose updates, use the issue template: `.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml`.
+- Add project-specific process artifacts to `.copilot/` if you want Copilot Spaces to use them as context.
+
+---
