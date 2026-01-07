@@ -13,7 +13,13 @@ OctoAcme adopts an iterative, outcome-focused approach to delivering projects. E
 - **Project Managers (PMs):** Coordinate delivery, risk, and communication.
 - **Developers:** Implement and test solutions and collaborate on design.
 - **QA:** Validate acceptance criteria and orchestrate test coverage.
-- **Stakeholders:** Input requirements and approve milestones.
+- **Release Managers:** Coordinate release activities, schedules, and deployment processes.
+- **Risk & Compliance Leads:** Identify and mitigate risks, ensure compliance with standards.
+- **Technical Architects:** Design system architecture and guide technical decisions.
+- **Change Managers:** Manage change requests and ensure smooth process transitions.
+- **External Stakeholders:** Provide input and validate deliverables according to business needs.
+
+For detailed role descriptions and interactions, see [Roles & Personas](./octoacme-roles-and-personas.md).
 
 **Workflows and quality assurance:**  
 - Use a project board (Backlog → Ready → In Progress → In Review → QA → Done).
@@ -36,6 +42,7 @@ OctoAcme adopts an iterative, outcome-focused approach to delivering projects. E
 
 ## Documentation Index
 
+### Core Process Documentation
 - [Project Management Overview](./octoacme-project-management-overview.md)
 - [Project Initiation Guide](./octoacme-project-initiation.md)
 - [Project Planning](./octoacme-project-planning.md)
@@ -44,6 +51,11 @@ OctoAcme adopts an iterative, outcome-focused approach to delivering projects. E
 - [Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](./octoacme-roles-and-personas.md)
+
+### Templates & Checklists
+- [Role Onboarding Checklist](./role-onboarding-checklist.md)
+- [Risk Escalation Path Template](./risk-escalation-path-template.md)
+- [Release Manager Checklist](./release-manager-checklist.md)
 
 ---
 

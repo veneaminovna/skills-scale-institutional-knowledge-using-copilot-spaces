@@ -16,6 +16,7 @@ Personas and responsibilities are clearly defined: Product Managers (outcomes, p
 
 ## Documentation Index
 
+### Core Process Documentation
 - [Project Management Overview](./octoacme-project-management-overview.md)
 - [Project Initiation Guide](./octoacme-project-initiation.md)
 - [Project Planning](./octoacme-project-planning.md)
@@ -24,6 +25,11 @@ Personas and responsibilities are clearly defined: Product Managers (outcomes, p
 - [Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](./octoacme-roles-and-personas.md)
+
+### Templates & Checklists
+- [Role Onboarding Checklist](./role-onboarding-checklist.md) - Onboard new team members to their roles
+- [Risk Escalation Path Template](./risk-escalation-path-template.md) - Structured risk escalation procedures
+- [Release Manager Checklist](./release-manager-checklist.md) - Comprehensive release management guide
 
 ---
 
