@@ -81,7 +81,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 Release Managers coordinate release activities, schedules, and communications across teams. They ensure successful, timely releases by managing the release pipeline, coordinating with stakeholders, and maintaining release documentation.
 
 ### Responsibilities
-- Coordinate release schedules and coordinate release windows
+- Coordinate release schedules and manage release windows
 - Manage release pipeline and deployment processes
 - Ensure pre-release requirements are met (CI/CD, testing, documentation)
 - Communicate release status and changes to stakeholders

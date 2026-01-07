@@ -172,7 +172,7 @@ Use this template when escalating a risk:
 
 Use these criteria to determine escalation level:
 
-| Factor | Level 1 (Low) | Level 2 (Medium) | Level 3 (High) | Level 4 (Critical) |
+| Risk Factor | Level 1 (Low) | Level 2 (Medium) | Level 3 (High) | Level 4 (Critical) |
 |--------|---------------|------------------|----------------|--------------------|
 | **Schedule Impact** | < 1 week | 1-2 weeks | 2-4 weeks | > 4 weeks or milestone miss |
 | **Budget Impact** | < $5K | $5K-$25K | $25K-$100K | > $100K |
