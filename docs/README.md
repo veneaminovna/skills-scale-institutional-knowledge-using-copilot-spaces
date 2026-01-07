@@ -6,7 +6,7 @@ This README is the central entry point to OctoAcme's project management process 
 
 ## Overview: How OctoAcme Runs Projects
 
-OctoAcme runs projects with a lightweight, iterative lifecycle that begins with clear initiation (Project One‑pager, stakeholder alignment), moves into structured planning (kickoff, prioritized backlog, estimates, Definition of Done, release/milestone map), continues through execution and QA, and ends with close and retrospective. Key artifacts (one‑pager, roadmap/release plan, sprint backlog, acceptance criteria, risk register, and retrospectives) are tracked in the repo as the source of truth.
+OctoAcme runs projects with a lightweight, iterative lifecycle that begins with clear initiation (Project One-pager, stakeholder alignment), moves into structured planning (kickoff, prioritized backlog, estimates, Definition of Done, release/milestone map), continues through execution and QA, and ends with close and retrospective. Key artifacts (one-pager, roadmap/release plan, sprint backlog, acceptance criteria, risk register, and retrospectives) are tracked in the repo as the source of truth.
 
 Core project workflows emphasize predictable delivery and quality. Teams use a project board (Backlog → Ready → In Progress → In Review → QA → Done), keep PRs small with clear acceptance criteria, require CI tests and approvals, and follow staged, checklist-driven release/deployment (including incident handling and rollbacks). Blocker escalation moves from team → PM → Product Lead → Sponsor (plus special security protocols).
 
