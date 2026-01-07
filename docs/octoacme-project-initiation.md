@@ -14,10 +14,10 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
+- Stakeholder list & communication plan (including External Stakeholders if applicable)
 - High-level timeline and key milestones
-- Initial risk list
-- Resource needs (team roles, rough effort estimate)
+- Initial risk list (coordinate with Risk & Compliance Lead)
+- Resource needs (team roles, rough effort estimate) - reference [Roles & Personas](./octoacme-roles-and-personas.md)
 
 ## Project One-pager Template
 - Project name:
@@ -41,3 +41,13 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+---
+
+## Related Documentation
+
+- [Roles & Personas](./octoacme-roles-and-personas.md) - Team role definitions
+- [Role Onboarding Checklist](./role-onboarding-checklist.md) - Onboard new team members
+- [Risk Management & Communication](./octoacme-risks-and-communication.md) - Initial risk assessment
+- [Project Planning](./octoacme-project-planning.md) - Next phase after initiation
+
