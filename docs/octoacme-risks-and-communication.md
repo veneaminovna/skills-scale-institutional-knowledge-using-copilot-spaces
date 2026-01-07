@@ -1,7 +1,11 @@
 # OctoAcme — Risk Management & Communication
 
 ## Purpose
-Explain how to identify, manage, and communicate risks and dependencies.
+Explain how to identify, manage, and communicate risks and dependencies. This document outlines OctoAcme's approach to risk management and stakeholder communication.
+
+## Risk Ownership
+
+The **Risk & Compliance Lead** is responsible for maintaining the risk register, facilitating risk assessments, and ensuring compliance with organizational standards. Project Managers work closely with the Risk & Compliance Lead to identify, track, and mitigate project risks. For detailed role responsibilities, see [Roles & Personas](./octoacme-roles-and-personas.md).
 
 ## Risk Register
 Maintain a simple table with:
@@ -40,3 +44,13 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+- For detailed escalation procedures and criteria, see the [Risk Escalation Path Template](./risk-escalation-path-template.md)
+
+---
+
+## Related Documentation
+
+- [Risk Escalation Path Template](./risk-escalation-path-template.md) - Detailed escalation procedures
+- [Roles & Personas](./octoacme-roles-and-personas.md) - Risk & Compliance Lead role definition
+- [Project Management Overview](./octoacme-project-management-overview.md) - Overall process context
+

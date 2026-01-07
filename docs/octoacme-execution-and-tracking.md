@@ -32,9 +32,22 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Level 1: Team-level triage in daily standup
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
+- For detailed escalation procedures, see [Risk Escalation Path Template](./risk-escalation-path-template.md)
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] Risk register updated weekly (with Risk & Compliance Lead)
+- [ ] Technical architecture reviews scheduled as needed (with Technical Architect)
+- [ ] Change requests managed appropriately (with Change Manager)
+
+---
+
+## Related Documentation
+
+- [Risk Escalation Path Template](./risk-escalation-path-template.md) - Escalation procedures
+- [Roles & Personas](./octoacme-roles-and-personas.md) - Team role definitions
+- [Risk Management & Communication](./octoacme-risks-and-communication.md) - Risk management processes
+- [Release & Deployment Guide](./octoacme-release-and-deployment.md) - Preparing for release
+

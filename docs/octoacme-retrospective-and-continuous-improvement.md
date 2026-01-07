@@ -31,3 +31,14 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Continuous Improvement Culture
 - Measure impact of action items
 - Celebrate improvements and make small, iterative changes
+- Update process documentation based on learnings
+- Share insights across teams and with Change Manager for process updates
+
+---
+
+## Related Documentation
+
+- [Roles & Personas](./octoacme-roles-and-personas.md) - Team role definitions
+- [Risk Management & Communication](./octoacme-risks-and-communication.md) - Blameless incident retrospectives
+- [Project Management Overview](./octoacme-project-management-overview.md) - Overall process context
+
